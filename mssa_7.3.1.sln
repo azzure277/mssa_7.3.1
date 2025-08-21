@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mssa_7.3.1", "mssa_7.3.1.csproj", "{FAB5FDD9-3C57-4B02-BD92-9ED0E8D61115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB5FDD9-3C57-4B02-BD92-9ED0E8D61115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB5FDD9-3C57-4B02-BD92-9ED0E8D61115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB5FDD9-3C57-4B02-BD92-9ED0E8D61115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB5FDD9-3C57-4B02-BD92-9ED0E8D61115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F73E7F-CE36-47F9-8099-EE2966A49DB1}
+	EndGlobalSection
+EndGlobal
